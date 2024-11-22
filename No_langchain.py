@@ -13,7 +13,7 @@ from datetime import datetime
 
 # Load API Key
 # load_dotenv()
-API_KEY = "AIzaSyBBrB7-ubtjzUXXwHvZtZL6WKKwcIhCUE0"
+API_KEY = "your_api_key"
 genai.configure(api_key=API_KEY)
 # GOOGLE_API_KEY = os.environ['GOOGLE_API_KEY']
 
